@@ -52,6 +52,10 @@
 		843274E72C2D50AF0096F2C6 /* InfluencerConnect */ = {
 			isa = PBXGroup;
 			children = (
+				843274FA2C2D522B0096F2C6 /* login */,
+				843274F92C2D52220096F2C6 /* portfolio */,
+				843274F82C2D52110096F2C6 /* search */,
+				843274F72C2D51FC0096F2C6 /* model */,
 				843274E82C2D50AF0096F2C6 /* InfluencerConnectApp.swift */,
 				843274EA2C2D50AF0096F2C6 /* ContentView.swift */,
 				843274EC2C2D50B20096F2C6 /* Assets.xcassets */,
@@ -67,6 +71,34 @@
 				843274F02C2D50B20096F2C6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		843274F72C2D51FC0096F2C6 /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		843274F82C2D52110096F2C6 /* search */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = search;
+			sourceTree = "<group>";
+		};
+		843274F92C2D52220096F2C6 /* portfolio */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = portfolio;
+			sourceTree = "<group>";
+		};
+		843274FA2C2D522B0096F2C6 /* login */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = login;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
